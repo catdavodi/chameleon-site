@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import HeroSection from "./components/HeroSection";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import { TypeAnimation } from 'react-type-animation';
 import AboutSection from "app/components/AboutSection.jsx";
 
